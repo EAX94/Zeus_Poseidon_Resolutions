@@ -1,2 +1,10 @@
-# Zeus_Poseidon_Resolutions
-Resolution files for Zeus &amp; Poseidon videogame, so it can support modern resolutions.
+![](https://i.imgur.com/yavQa8M.png)
+
+# Zeus & Poseidon Resolutions
+Resolution files for Zeus & Poseidon videogame, so it can support modern resolutions.
+
+## How to use
+Just copy the contents of your native desktop resolution and paste it inside the game folder.
+
+## Credits
+I don't know who created this, I just found it on my PC after many years.
