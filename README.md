@@ -8,6 +8,7 @@ Just copy the contents of your native desktop resolution and paste it inside the
 
 ## Support
 Works good on the Steam version.
+
 I don't know about the others.
 
 ## Credits
